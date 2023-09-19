@@ -1,0 +1,1 @@
+# setup-automatic-ssh-remote-host
